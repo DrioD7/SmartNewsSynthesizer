@@ -1,0 +1,3 @@
+[console_scripts]
+carbonboard = codecarbon.viz.carbonboard:main
+codecarbon = codecarbon.cli.main:main

@@ -1,0 +1,33 @@
+# core app
+streamlit
+fastapi
+uvicorn[standard]
+requests
+python-dotenv
+
+# scraping / html
+newspaper3k
+beautifulsoup4
+lxml_html_clean
+lxml
+
+# embeddings & models
+sentence-transformers
+transformers
+tokenizers
+accelerate
+datasets
+sentencepiece
+codecarbon
+
+# vector DB / index
+faiss-cpu
+
+# file export
+python-pptx
+reportlab
+Pillow
+
+# utilities
+tqdm
+regex
